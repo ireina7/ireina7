@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning `Scala` and `Haskell`.
+- ⚡ Fun fact: What I cannot create, I do not understand.
 <!--
 **ireina7/ireina7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
