@@ -1,0 +1,19 @@
+#+Title:  Index of my Github
+#+Author: ireina7
+
+I plan to organize my github with this repo.
+
+** Repos [3/3]
+*** Studies [0/3]
+**** TODO cv.study
+**** TODO jvm.study
+**** TODO git.study
+*** Notes [0/2]
+**** TODO leetcode.note
+**** TODO dotty.note
+*** Misc [0/3]
+**** TODO babecafe
+**** TODO ladders
+**** TODO plt(forked)
+
+** Orgs
