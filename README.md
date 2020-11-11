@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning `Scala`, `Rust` and `Haskell`.
 - 👯 I’m looking to collaborate on **anything interesting**.
 - ⚡ Fun fact: *What I cannot create, I do not understand*.
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ireina7&layout=compact)](https://github.com/ireina7)
 <!--
 **ireina7/ireina7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
