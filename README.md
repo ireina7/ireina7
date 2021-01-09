@@ -2,7 +2,9 @@
 
 - 🌱 I’m currently learning `Scala`, `Rust` and `Haskell`.
 - 👯 I’m looking to collaborate on **anything interesting**.
-- ⚡ Fun fact: *What I cannot create, I do not understand*.
+- ⚡ Fun facts: 
+  > What I cannot create, I do not understand.
+  > From falsehood follows whatever you like.
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ireina7&layout=compact)](https://github.com/ireina7)
 <!--
