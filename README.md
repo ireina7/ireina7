@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning `Scala`, `Rust` and `Haskell`.
+- 🔭 I’m currently working on Machine Learning
+- 🌱 I’m currently learning `Scala`, `Rust`, `Coq` and `Haskell`.
 - 👯 I’m looking to collaborate on **anything interesting**.
 - ⚡ Fun facts: 
   > What I cannot create, I do not understand.  
