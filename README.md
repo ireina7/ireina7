@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Machine Learning.
-- 🌱 I’m currently writing `C++`, `Scala`, `Rust`, `Coq` and `Haskell`.
-- 🎸 I'm currently learning playing `Jazz guitar`.
-- 👯 I’m looking to collaborate on **anything interesting**.
-- ⚡ Fun facts: 
-  > What I cannot create, I do not understand.  
-  > From falsehood follows whatever you like.  
+- 🔭 Working on: Machine Learning.
+- 🌱 Programming Languages: `C++`, `Scala`, `Rust`, `TypeScript`, `Coq` and `Haskell`.
+- 🎸 Like `Jazz guitar`.
+- 👯 Looking to collaborate on **anything interesting**.
+- ⚡ Fun facts: What I cannot create, I do not understand.  
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ireina7&layout=compact)](https://github.com/ireina7)
 <!--
