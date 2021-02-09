@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Machine Learning
-- 🌱 I’m currently learning `Scala`, `Rust`, `Coq` and `Haskell`.
+- 🔭 I’m currently working on Machine Learning.
+- 🌱 I’m currently writing `C++`, `Scala`, `Rust`, `Coq` and `Haskell`.
+- 🎸 I'm currently learning playing `Jazz guitar`.
 - 👯 I’m looking to collaborate on **anything interesting**.
 - ⚡ Fun facts: 
   > What I cannot create, I do not understand.  
