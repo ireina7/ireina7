@@ -3,17 +3,52 @@
 
 I plan to organize my github with this repo.
 
-** Repos [3/3]
-*** Studies [0/3]
+** About
+The whole github repos can be categorized as the following *4* classes:
+- /project/: Common projects for app production
+- /study/: Study notes on some main project (mostly organized with =.md= or =.org= files)
+- /note/: Pure notes for recording some infomation
+- /playground/: A special project on playing some software (usually can be build or execute)
+- /misc/: misc or forked
+
+** Repo structure [4/4]
+*** Study [0/6]
 **** TODO cv.study
 **** TODO jvm.study
 **** TODO git.study
-*** Notes [0/2]
-**** TODO leetcode.note
-**** TODO dotty.note
-*** Misc [0/3]
-**** TODO babecafe
-**** TODO ladders
-**** TODO plt(forked)
-
-** Orgs
+**** NEXT sf.study
+**** TODO plfa.study
+**** TODO math.study
+*** Note [0/3]
+**** NEXT [[https://github.com/ireina7/leetcode.note][leetcode.note]]
+Notes on =leetcode= solutions with various programming languages.
+**** NEXT codewars.note
+Notes on =codewars= solutions with various programming languages.
+**** NEXT [[https://github.com/ireina7/dotty.note][dotty.note]]
+Notes on =Dotty (Scala3)='s new features.
+*** Project [2/4]
+**** TODO abyss
+**** TODO abyss-rs
+**** DONE org-to-html-themes
+     CLOSED: [2021-04-09 Fri 23:34]
+    :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2021-04-09 Fri 23:34]
+    :END:
+**** DONE babecafe
+     CLOSED: [2021-04-09 Fri 23:33]
+     :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2021-04-09 Fri 23:33]
+     - State "NEXT"       from "DONE"       [2021-04-09 Fri 23:33]
+     :END:
+*** Playground [0/2]
+**** TODO rust-playground
+**** TODO react-playground
+*** Misc [1/4]
+**** NEXT ladders
+**** NEXT musix
+**** TODO lua (forked)
+**** DONE plt (forked)
+     CLOSED: [2021-04-09 Fri 23:27]
+     :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2021-04-09 Fri 23:27]
+     :END:
