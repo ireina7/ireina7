@@ -4,7 +4,7 @@
 - 🌱 Programming Languages: `C++`, `Scala`, `Rust`, `TypeScript`, `Coq` and `Haskell`.
 - 🎸 Like `Jazz guitar`.
 - 👯 Looking to collaborate on **anything interesting**.
-- ⚡ Fun facts: What I cannot create, I do not understand.  
+- ⚡ Fun facts: *What I cannot create, I do not understand.*  
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ireina7&layout=compact)](https://github.com/ireina7)
 

@@ -13,23 +13,20 @@ The whole github repos can be categorized as the following *4* classes:
 
 ** Repo structure [4/4]
 *** Study [0/6]
-**** TODO cv.study
-**** TODO jvm.study
-**** TODO git.study
-**** NEXT sf.study
+**** NEXT [[https://github.com/ireina7/sf.study][sf.study]]
 **** TODO plfa.study
 **** TODO math.study
 *** Note [0/3]
 **** NEXT [[https://github.com/ireina7/leetcode.note][leetcode.note]]
 Notes on =leetcode= solutions with various programming languages.
-**** NEXT codewars.note
+**** NEXT [[https://github.com/ireina7/codewars.note][codewars.note]]
 Notes on =codewars= solutions with various programming languages.
 **** NEXT [[https://github.com/ireina7/dotty.note][dotty.note]]
 Notes on =Dotty (Scala3)='s new features.
 *** Project [2/4]
-**** TODO abyss
-**** TODO abyss-rs
-**** DONE org-to-html-themes
+**** TODO [[https://github.com/ireina7/abyss][abyss]]
+**** TODO [[https://github.com/ireina7/abyss-rs][abyss-rs]]
+**** DONE [[https://github.com/ireina7/org-to-html-themes][org-to-html-themes]]
      CLOSED: [2021-04-09 Fri 23:34]
     :LOGBOOK:
     - State "DONE"       from "NEXT"       [2021-04-09 Fri 23:34]
@@ -44,7 +41,7 @@ Notes on =Dotty (Scala3)='s new features.
 **** TODO rust-playground
 **** TODO react-playground
 *** Misc [1/4]
-**** NEXT ladders
+**** NEXT [[https://github.com/ireina7/ladders][ladders]]
 **** NEXT musix
 **** TODO lua (forked)
 **** DONE plt (forked)
