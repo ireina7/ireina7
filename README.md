@@ -1,20 +1,19 @@
 ### Hi there 👋
 
 - 🔭 Working on: Machine Learning.
-- 🌱 Programming Languages: `C++`, `Scala`, `Rust`, `TypeScript`, `Coq` and `Haskell`.
-- 🎸 Like `Jazz guitar`.
+- 🌱 Programming Languages: `C`, `Haskell`, `Rust`, `Go`, `Scala` and `Haskell`.
+- 🎸 Like `Jazz Piano`.
 - 👯 Looking to collaborate on **anything interesting**.
 - ⚡ Fun facts: *What I cannot create, I do not understand.*  
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ireina7&layout=compact)](https://github.com/ireina7)
 
 
+
+<!--
 ### Repository structure
 My whole github's structure, please refer to [this](./Index.org).
 
-
-
-<!--
 **ireina7/ireina7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
