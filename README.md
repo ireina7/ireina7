@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Working on: Machine Learning.
-- 🌱 Programming Languages: `C`, `Haskell`, `Rust`, `Go`, `Scala` and `Haskell`.
+- 🌱 Programming Languages: `C`, `Haskell`, `Rust`, `Go`, `Scala` and `Java`.
 - 🎸 Like `Jazz Piano`.
 - 👯 Looking to collaborate on **anything interesting**.
 - ⚡ Fun facts: *What I cannot create, I do not understand.*  
