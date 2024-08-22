@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- [blog](https://ireina7.github.io/base)
 - 🔭 Working on: Machine Learning.
 - 🌱 Programming Languages: `C`, `Haskell`, `Rust`, `Go`, `Scala` and `Java`.
 - 🎸 Like `Jazz Piano`.
